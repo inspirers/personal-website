@@ -16,23 +16,25 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/Chicago
+timezone: Europe/Stockholm #America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Techno Tim                          # the main title
+title: Arvid Boisen                          # the main title
 
-tagline: Software Engineer | Tech Content Creator | HomeLab | 🇺🇸 🇯🇵 | Full Nerd   # it will display as the sub-title
+tagline: Computer Science and Engineering student at Chalmers University of Technology # Software Engineer | Tech Content Creator | HomeLab | 🇺🇸 🇯🇵 | Full Nerd   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
- Techno Tim Home - Documentation and More
+ Arvid Boisen Computer Science and Engineering Chalmers 
+
+# Techno Tim Home - Documentation and More
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://technotim.live'
+url: 'https://boisen.io'
 
 github:
-  username: timothystewart6             # change to your github username
+  username: inspirers             # change to your github username
 twitter:
   username: technotimlive            # change to your twitter username
 patreon:
@@ -52,15 +54,15 @@ tiktok:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Techno Tim
+  name: Arvid Boisen
   # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://l.technotim.live/twitter      # change to your twitter homepage
+    # - https://l.technotim.live/twitter      # change to your twitter homepage
     # - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/arvid-boisen/
 
 
 # ↑ --------------------------

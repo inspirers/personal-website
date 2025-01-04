@@ -2,11 +2,11 @@
 -
   type: links
   icon: 'fa-solid fa-link'
-  url:  'https://l.technotim.live/links'
--
-  type: twitter
-  icon: 'fa-brands fa-x-twitter'
-  url: 'https://l.technotim.live/twitter'
+  url:  'https://cv.boisen.io'
+# -
+#   type: twitter
+#   icon: 'fa-brands fa-x-twitter'
+#   url: 'https://l.technotim.live/twitter'
 # -
 #   type: youtube
 #   icon: 'fab fa-youtube'
@@ -22,7 +22,7 @@
 -
   type: github-custom
   icon: 'fab fa-github'
-  url: 'https://l.technotim.live/github'
+  url: 'https://github.com/inspirers'
 # -
 #   type: linkedin
 #   icon: 'fab fa-linkedin'
@@ -43,10 +43,10 @@
 #   type: patreon
 #   icon: 'fab fa-patreon'
 #   url: 'https://l.technotim.live/patreon'
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+# -
+#   type: rss
+#   icon: 'fas fa-rss'
+#   noblank: true
 
 #   type: email
 #   icon: 'fas fa-envelope'
