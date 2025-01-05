@@ -1,5 +1,6 @@
 services:
   hugo-nginx:
+    container_name: boisen.io-website
     build: 
       context: .
       dockerfile: Dockerfile
