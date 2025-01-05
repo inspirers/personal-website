@@ -35,22 +35,22 @@ url: 'https://boisen.io'
 
 github:
   username: inspirers             # change to your github username
-twitter:
-  username: technotimlive            # change to your twitter username
-patreon:
-  username: technotim
-twitch:
-  username: technotim
+# twitter:
+#   username: technotimlive            # change to your twitter username
+# patreon:
+#   username: technotim
+# twitch:
+#   username: technotim
 instagram:
-  username: techno.tim
+  username: boisen.arvid
 facebook:
-  username: TechnoTimLive
-discord:
-  invitelink: akMB4HJpvF
-youtube:
-  channelid: UCOk-gHyjcWZNj3Br4oxwh0A
-tiktok:
-  username: '@technotim'
+  username: arvid.p.boisen
+# discord:
+#   invitelink: akMB4HJpvF
+# youtube:
+#   channelid: UCOk-gHyjcWZNj3Br4oxwh0A
+# tiktok:
+#   username: '@technotim'
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -70,8 +70,8 @@ social:
 
 # Web Analytics Settings
 analytics:
-  google:
-    id: 'G-NZ5V7DM8F5'          # Fill with your Google Analytics ID
+  # google:
+  #   id: 'G-NZ5V7DM8F5'          # Fill with your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
 
@@ -96,7 +96,7 @@ analytics:
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/1322205?s=400&u=5b4f2219006577dc0426007fe5a02391c4899677&v=4
+avatar: /assets/img/posts/Arvid_square_face.webp # https://avatars.githubusercontent.com/u/1322205?s=400&u=5b4f2219006577dc0426007fe5a02391c4899677&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
