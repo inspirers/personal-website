@@ -25,3 +25,5 @@ Created by TechnoTim with 💛
 ► Facebook <https://l.technotim.live/facebook>
 
 ► GitHub <https://l.technotim.live/github>
+
+magick my-new-image.png -resize 20x20 -quality 10 -define png:compression-filter=0 -define png:compression-level=0 -define png:compression-strategy=0 -strip png:- | base64
