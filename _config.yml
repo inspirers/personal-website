@@ -102,7 +102,7 @@ avatar: /assets/img/posts/Arvid_square_face.webp # https://avatars.githubusercon
 toc: true
 
 comments:
-  active: #giscus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -112,10 +112,10 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: techno-tim/techno-tim.github.io
-    repo_id: MDEwOlJlcG9zaXRvcnkyNTQ3ODQ3Nzk
-    category: Comments
-    category_id: DIC_kwDODy-1C84CSN7z
+    repo: inspirers/personal-website #techno-tim/techno-tim.github.io
+    repo_id: R_kgDONl7DsQ
+    category: Announcements
+    category_id: DIC_kwDONl7Dsc4ClwXM
     mapping: pathname          # optional, default to 'pathname'
     input_position: bottom  # optional, default to 'bottom'
     lang: en            # optional, default to the value of `site.lang`
