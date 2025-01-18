@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 JEKYLL_ENV=production bundle exec jekyll b
-docker buildx build --platform linux/amd64,linux/arm64,linux/arm/v7 -t registry.boisen.io:8443/arvid.boisen/boisen.io-website:latest --push .
+docker buildx build --platform linux/amd64,linux/arm64,linux/arm/v7 -t registry.boisen.io/arvid.boisen/boisen.io-website:latest --push .
 
 
 # docker build -t registry.boisen.io:8443/arvid.boisen/boisen.io-website:latest .
